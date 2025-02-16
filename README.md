@@ -5,3 +5,4 @@
 - Example 1: Spraading in Arras
 
 - Exmaple 2: Merging Arrays
+Using spread in merging array is better than concat().
